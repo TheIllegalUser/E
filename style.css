@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color:green;
+}
+p{
+    color:greenyellow
+}
+iframe{
+    width:400px;
+    height:400px;
+}
+.footer{
+    background-color: green;
+}
