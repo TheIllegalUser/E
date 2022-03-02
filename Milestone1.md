@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The History Of Xbox</title>
+    <style>
+        .one {
+            background-color: green;
+            color: blue;
+        }
+        .two {
+            background-color:blue;
+            color: white;
+        }
+        .three {
+            background-color: violet;
+            color: green;
+
+        }
+        .four {
+            background-color: red;
+            color: white;
+        }
+        .five {
+            background-color: green;
+            color: rgb(187, 186, 186);
+        }
+        td {
+            border: 5px solid black;
+        }
+        th {
+            border: 5px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>The Beginning of the Xbox</h1>
+        <p class = one>The <i>Xbox</i> started out when a group of designers came to Bill Gates asking if
+            they could release a hardware device made just for gaming. Bill Gates agreed,
+            since Microsoft wanted a stake in the newly rising gaming industry, that was
+            primarily controlled by the playstation 2, the proposed "<i>xbox</i>" would have almost 
+            double the hardware capabilities of the PS2, and would help solidify <i>xbox</i> in 
+            the gaming market. Upon release, <i>xbox</i> was an instant success in America. In that
+            time, Microsoft made one of the best decisions for the companies future, which was 
+            to buy Bungie, a game company that had created halo. Upon release to the <i>Xbox</i> as 
+            a first person game, it became an instant success. Halo was by far one of the most popular
+            games on the <i>Xbox</i> exlusively, and helped build its brand. At a $299 price tag, over
+            1 million consoles were sold, which was groundbreaking back then. the specs of the first<i>Xbox</i> were:
+            CPU: Intel Pentium running at 733 MHz. 64 MB memory, 8GB internam HDD, 8MB memory card, and other
+            smaller features. The controller for the <i>xbox</i> was a bit infamous for being too large, winning a 
+            blunder of the year by guinness world record for its size, and second worst controller. Where <i>Xbox</i>
+            tried really hard to sell in was Japan, an econonmy that was dominated by Nintendo. Although they 
+            offered a well recieved console in other parts of the world, it struggled to sell in Japan, and
+            ended up not being profitable for them. additionally to that, the country was more well recieved to 
+            smaller products.
+        </p>
+        <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/250px-Xbox-console.jpg height=100px width=300px>
+        <h6>https://en.wikipedia.org/wiki/Xbox_(console)</h6> 
+        <iframe src="https://en.wikipedia.org/wiki/Xbox"></iframe>
+</body>
+</html>
